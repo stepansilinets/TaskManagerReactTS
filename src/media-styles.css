@@ -1,0 +1,51 @@
+@media (max-width: 760px) {
+    .tasks-card {
+        width: 24rem;
+        margin: 0;
+        padding: 0 0 1rem 0;
+    }
+    .tasks-container {
+        padding: 1rem;
+        margin-top: 10rem;
+        display: flex;
+        justify-content: center;
+    }
+    .theme-toggle {
+        margin-top: 2.5rem;
+
+    }
+    .logout-button {
+        margin-top: 2.5rem;
+
+    }
+    .task-card-paragraph {
+        font-size: 20px;
+        padding: 1rem;
+        margin-top: 25px;
+    }
+    .task-card-emodji {
+        padding: 1rem;
+        font-size: 20px;
+    }
+    .task-form-input {
+        width: 80%;
+        margin: 0 0.5rem 0 1.5rem;
+    }
+    .primary-button {
+        width: 86.5%;
+        margin: 1rem 0.5rem 0 1.5rem;
+    }
+    .task-text{
+        font-size: 14px;
+    }
+    .task-content {
+        width: 100%;
+        border-left: none;
+    }
+    .edit-form {
+        display: flex;
+    }
+    .edit-input {
+        width: 100%;
+    }
+}
